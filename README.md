@@ -1,0 +1,2 @@
+# nonomnismoria
+Scripts Life Selector
